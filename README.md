@@ -47,13 +47,13 @@ The application is deployed using Streamlit Cloud and can be accessed here
 link : https://sentimentalanalysis-eflxk4fvn6jiwfkkq6lhrt.streamlit.app/
 
 ## Technology Stack
-Python
-NLP
-WordCloud
-Synthetic Minority Over-sampling Technique
-Streamlit
-SVC
-TF-IDF vectorizer
-DecisionTreeClassifier
-RandomForestClassifier
-AdaBoostClassifier
+- Python
+- NLP
+- WordCloud
+- Synthetic Minority Over-sampling Technique
+- Streamlit
+- SVC
+- TF-IDF vectorizer
+- DecisionTreeClassifier
+- RandomForestClassifier
+- AdaBoostClassifier
