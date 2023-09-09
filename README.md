@@ -1,5 +1,8 @@
 # SentimentalAnalysis
-# Analyzing User Sentiments and Performance of Threads: An Instagram App Reviews Study
+Welcome to the Sentiment Analysis Project! This repository includes code and resources for performing sentiment analysis on text data. Sentiment analysis is the act of evaluating the emotional tone of a piece of text, and it has applications in a variety of fields such as customer feedback analysis, social media monitoring, and opinion mining.
+
+
+# Analyzing User Sentiments and Performance of Threads: An Instagram App Review Study
 This project demonstrates sentiment analysis using a Support Vector Machine ,TF-IDF vectorizer model to classify text data into three categories: positive, negative, or neutral. The application is deployed using Streamlit Cloud and can also be run on a local host server.
 
 ## Table of Contents
@@ -18,7 +21,6 @@ This project demonstrates sentiment analysis using a Support Vector Machine ,TF-
 ![Screenshot 2023-09-09 124949](https://github.com/HarithaBangaru/SentimentalAnalysis/assets/113615474/d4b3191a-7a71-4a94-b54c-3d0543b098e6)
 
 ## Demo
-
 You can access the live demo of this sentiment analysis tool at https://sentimentalanalysis-eflxk4fvn6jiwfkkq6lhrt.streamlit.app/ or by running it locally on your machine.
 
 ## Getting Started
