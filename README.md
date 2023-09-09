@@ -14,6 +14,7 @@ This project demonstrates sentiment analysis using a Support Vector Machine ,TF-
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Model and Data](#model-and-data)
+- [Technology Stack](Technology-Stack)
 
 ## About
 ![Screenshot 2023-09-09 124936](https://github.com/HarithaBangaru/SentimentalAnalysis/assets/113615474/d84b89b7-966d-4822-8be6-1bf0921b3672)
