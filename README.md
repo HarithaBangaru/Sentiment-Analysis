@@ -3,7 +3,7 @@
 This project demonstrates sentiment analysis using a Support Vector Machine ,TF-IDF vectorizer model to classify text data into three categories: positive, negative, or neutral. The application is deployed using Streamlit Cloud and can also be run on a local host server.
 
 ## Table of Contents
-
+- [About](#about)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -12,6 +12,10 @@ This project demonstrates sentiment analysis using a Support Vector Machine ,TF-
 - [Deployment](#deployment)
 - [Model and Data](#model-and-data)
 
+## About
+![Screenshot 2023-09-09 124936](https://github.com/HarithaBangaru/SentimentalAnalysis/assets/113615474/d84b89b7-966d-4822-8be6-1bf0921b3672)
+### Result
+![Screenshot 2023-09-09 124949](https://github.com/HarithaBangaru/SentimentalAnalysis/assets/113615474/d4b3191a-7a71-4a94-b54c-3d0543b098e6)
 
 ## Demo
 
